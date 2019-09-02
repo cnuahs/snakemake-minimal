@@ -4,6 +4,7 @@ A minimal [Snakemake](https://snakemake.readthedocs.io/en/stable/) pipeline. Clo
 
 ```bash
 git clone https:github.com/cnuahs/snakemake-minimal.git ./my-analysis.git
+cd ./my-analysis.git
 git remote add origin https://github.com/<username>/my-analysis.git
 ```
 
